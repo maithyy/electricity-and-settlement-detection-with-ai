@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/6ndC2138)
 # kMM Classifier: Settlement & Electricity Detection
 _**Detection of Settlements via Random Forest Classifier & Electricity via Max Projection VIIRS Algorithm**_
 
@@ -54,7 +53,7 @@ Finally, in the **electricity detection** phase, we run an algorithm that takes 
 To begin, start by cloning this repository by running
 
 ```
-git clone https://github.com/cs175cv-s2024/final-project-kmm-classifier.git
+git clone https://github.com/maithyy/electricity-and-settlement-detection-with-ai.git
 ```
 
 Then, navigate to the project folder and run the following command to install the necessary libraries and packages
