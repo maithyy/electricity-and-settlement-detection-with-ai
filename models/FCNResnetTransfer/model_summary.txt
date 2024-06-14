@@ -1,0 +1,24 @@
+Model: FCN Resnet Transfer
+
+Hyperparameters:
+- learning_rate = 0.002
+- max_epochs = 4
+- slice_size = (2,2)
+- batch_size = 4
+- in_channels = 46
+- out_channels = 2
+- class_weight = [1,1.2]  (in cross entropy loss function)
+
+Settlement Detection Validation Results:
+- Accuracy: 0.5811
+- Precision: 0.6349
+- Recall: 0.0700
+- F1 Score: 0.1216
+
+Settlements With No Electricity Validation Results:
+- Accuracy: 0.6299
+- Precision: 0.4336
+- Recall: 0.0452
+- F1 Score: 0.0788
+
+
